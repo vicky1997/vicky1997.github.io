@@ -10,7 +10,10 @@ Projects:
 
 Carbon Desctruction in Protoplanetary disks :
 May 2021 - Present
-The destruction processes of Car
+The destruction processes of carbonaceous grains in planet forming disks is still a very open ended question. Using 1-Dimensional Monte Carlo Models of dust coagulation, we are looking at photolysis or the destruction of carbon by UV photons.
+
+Topology and Stochasticity of Turbulent Magnetic Fields :
+
 
 
 I have been fortunate to have been a part of a few projects which have turned into publications. 
