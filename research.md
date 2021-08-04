@@ -8,13 +8,13 @@ I try to understand, learn and unlearn many things related to but not restricted
 
 Projects:
 
-Carbon Desctruction in Protoplanetary disks :
+Carbon Destruction in Protoplanetary disks :
 
 The destruction processes of carbonaceous grains in planet forming disks is still a very open ended question. Using 1-Dimensional Monte Carlo Models of dust coagulation, we are looking at photolysis or the destruction of carbon by UV photons.
 
 Topology and Stochasticity of Turbulent Magnetic Fields :
 
-One of the topics where " What about magnetic fields? " is a question that cannnot be asked in any seminar. Magnetohydrodynamic turbulence has a wealth of topics at almost all scales in astrophysics. I worked in looking at Magnetic Reconnection and Richardson Diffusion for a simulation and looking at diagnostics for reconnection events.
+One of the topics where " What about magnetic fields? " is a question that cannot be asked in any seminar. Magnetohydrodynamic turbulence has a wealth of topics at almost all scales in astrophysics. I worked in looking at Magnetic Reconnection and Richardson Diffusion for a simulation and looking at diagnostics for reconnection events.
 
 
 
