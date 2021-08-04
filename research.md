@@ -18,6 +18,7 @@ One of the topics where " What about magnetic fields? " is a question that canno
 
 
 Study of Binary Star Cluser IC848 :
+
 My first project in astronomy, and I worked on a photometric study of the Heart and Soul Nebula! Using data from surveys like NEWFIRM, 2MASS etc we resolved the star cluster based on the binary star system in the region. 
 
 
