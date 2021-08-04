@@ -5,4 +5,4 @@ I'm a Physics Master's student at the Ludwig-Maximilians University, Munich. I a
 I love anything and everything related to astrophysics and fluids! My current research interests lie in astrophysical turbulence and in planet formation. I like to work on simulations and theory. But I am open to working on observations too!
 You can also find me posting what I'd like to call humourous content in the social media handle [Punpaadu](https://www.instagram.com/punpaadu/). You can find puns/memes/jokes in Tamil (a south Indian language) and English.
 
-<img alt="Creative Commons License" style="border-width:0" src= "https://vicky1997.github.io/images/background.jpg">
+<img style="width:500px;height:600px src= "https://vicky1997.github.io/images/vignesh.jpg">
