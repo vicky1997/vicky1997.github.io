@@ -4,10 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-I try to understand, learn and unlearn many things related to but not restricted to astrophysical fluid dynamics specifically MHD Turbulence, Planet Formation. I like to do this with the help of simulations (curious to try with observations too!). 
+I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation, Fluid Dynamics and Radiative transfer processes. Topics like Turbulence and Dust Dynamics excite me!! 
 
 Projects:
 
+Carbon Desctruction in Protoplanetary disks :
+May 2021 - Present
+The destruction processes of Car
 
 
 I have been fortunate to have been a part of a few projects which have turned into publications. 
