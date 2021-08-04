@@ -17,6 +17,8 @@ Topology and Stochasticity of Turbulent Magnetic Fields :
 One of the topics where " What about magnetic fields? " is a question that cannot be asked in any seminar. Magnetohydrodynamic turbulence has a wealth of topics at almost all scales in astrophysics. I worked in looking at Magnetic Reconnection and Richardson Diffusion for a simulation and looking at diagnostics for reconnection events.
 
 
+Study of Binary Star Cluser IC848 :
+My first project in astronomy, and I worked on a photometric study of the Heart and Soul Nebula! Using data from surveys like NEWFIRM, 2MASS etc we resolved the star cluster based on the binary star system in the region. 
 
 
 
