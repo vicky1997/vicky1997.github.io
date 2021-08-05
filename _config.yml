@@ -1,8 +1,7 @@
 # Site settings
 title: Vignesh Vaikundaraman
 email: v.vaikundaraman@physik.uni-muenchen.de
-description: > # this means to ignore newlines until "baseurl:"
- Viduthalai venuma oru muttaala iru. (If you want freedom, be a fool.)
+description: > # this means to ignore newlines until "baseurl:"s
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://vicky1997.github.io" # the base hostname & protocol for your site
 twitter_username: turbulenthuman
