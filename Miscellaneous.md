@@ -12,8 +12,7 @@ I like to collaborate with other musicians and as a result here are a few such i
 [Mad Mod Mood Fugue - Ilayaraja Cover](https://www.instagram.com/p/CBsn9F1AmJA/)
 
 I also got the opportunity to give a lecture demonstration on Carnatic Music - South Indian Classical Music, to the members of the Munich International orchestra. 
-[Introduction to Carnatic Music](https://vicky1997.github.io/images/Carnatic_Music.pdf)
-<embed src="https://vicky1997.github.io/images/Carnatic_Music.pdf" width="400px" height= "400px" type="application/pdf" />
 
+ Slides: [Introduction to Carnatic Music](https://vicky1997.github.io/images/Carnatic_Music.pdf)
 
 You can also find me posting what I'd like to call humorous content in the social media handle [Punpaadu](https://www.instagram.com/punpaadu/). You can find puns/memes/jokes in Tamil (a south Indian language) and English.
