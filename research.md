@@ -4,15 +4,19 @@ title: Research
 permalink: /research/
 ---
 
-I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation, Fluid Dynamics and Radiative transfer processes. Topics like Turbulence and Dust Dynamics excite me!! 
+I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation, Fluid Dynamics and Radiative transfer processes. Topics like Turbulence and Dust Dynamics excite me!!
 
 Projects:
 
 Carbon Destruction in Protoplanetary disks :
 
+Supervisor: [Dr. Til Birnstiel](https://til-birnstiel.de)
+
 The destruction processes of carbonaceous grains in planet forming disks is still a very open ended question. Using 1-Dimensional Monte Carlo Models of dust coagulation, we are looking at photolysis or the destruction of carbon by UV photons.
 
 Topology and Stochasticity of Turbulent Magnetic Fields :
+
+Supervisor: Dr.Ethan Vishniac
 
 One of the topics where " What about magnetic fields? " is a question that cannot be asked in any seminar. Magnetohydrodynamic turbulence has a wealth of topics at almost all scales in astrophysics. I worked in looking at Magnetic Reconnection and Richardson Diffusion for a simulation and looking at diagnostics for reconnection events.
 
