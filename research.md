@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation, Fluid Dynamics and Radiative transfer processes. Topics like Turbulence and Dust Dynamics excite me! I have been very fortunate to work with wonderful mentors and researchers that has shaped my mind academically and otherwise!
+I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation, dust & fluid Dynamics and radiative transfer processes. Topics like Turbulence and Dust Dynamics excite me! I have been very fortunate to work with wonderful mentors and researchers that has shaped my mind academically and otherwise!
 
 Projects:
 
