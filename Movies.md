@@ -4,4 +4,6 @@ title: Movies
 permalink: /movies/
 ---
 
+{% include youtube.html id="kraozyw2fLI" %}
+
 {% include youtube.html id="IfqBcGzDOdg" %}
