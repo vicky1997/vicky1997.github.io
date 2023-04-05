@@ -11,10 +11,10 @@ Now introducing bouncing ,
 
 {% include youtube.html id="-1nRc7XJvPo" %}
 
-Different processes in the Photolysis of refractory carbon in a protoplanetary disk :
+Different processes involved in the photolysis of refractory carbon in a protoplanetary disk :
 
 {% include youtube.html id="3_NRPoQ-PDE" %}
 
-Effects of different process on photolysis of refractory carbon :
+How different disk processes play a role in the photolysis of refractory carbon in a protoplanetary disk :
 
 {% include youtube.html id="IfqBcGzDOdg" %}
