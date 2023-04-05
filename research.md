@@ -4,9 +4,15 @@ title: Research
 permalink: /research/
 ---
 
-I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation, dust & fluid Dynamics and radiative transfer processes. Topics like Turbulence and Dust Dynamics excite me! I have been very fortunate to work with wonderful mentors and researchers that has shaped my mind academically and otherwise!
+I try to understand, learn and unlearn many things related to but not restricted to computational Astrophysics. I right now am interested in working in topics related to Star and Planet Formation. Dust (and fluid) dynamics excite me! I have been very fortunate to work with wonderful mentors and researchers that has shaped my mind academically and otherwise!
 
 Projects:
+
+Monte Carlo models for dust growth in protoplanetary disks
+
+Supervisor: [Dr Joanna Drążkowska](https://www2.mps.mpg.de/homes/drazkowska/Home.html)
+
+I work on Monte Carlo simulations to explore dust evolution in protoplanetary disks to find out how the small dust particles grew beyond their barriers to form planetesimals/planets.
 
 Carbon Destruction in Protoplanetary disks :
 
