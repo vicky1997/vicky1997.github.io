@@ -12,7 +12,7 @@ Monte Carlo models for dust growth in protoplanetary disks
 
 Supervisor: [Dr Joanna Drążkowska](https://www2.mps.mpg.de/homes/drazkowska/Home.html)
 
-I work on Monte Carlo simulations to explore dust evolution in protoplanetary disks to find out how the small dust particles organise to subsequently form planetesimals/planets. I am the primary maintainer of the 2D dust growth code mcdust. Please feel free to write to me if you have any questions with mcdust! Relevant papers: [Vaikundaraman+2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250721239V/abstract), [Eriksson+2206](https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag982E/abstract), [Gurrutxaga+2026](https://ui.adsabs.harvard.edu/abs/2026A%26A...709A.164G/abstract)
+I work on Monte Carlo simulations to explore dust evolution in protoplanetary disks to find out how the small dust particles organise to subsequently form planetesimals/planets. I am the primary maintainer of the 2D dust growth code mcdust. Please feel free to write to me if you have any questions with mcdust! Relevant papers: [Vaikundaraman+2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250721239V/abstract), [Eriksson+2026](https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag982E/abstract), [Gurrutxaga+2026](https://ui.adsabs.harvard.edu/abs/2026A%26A...709A.164G/abstract)
 
 Formation of dust traps in magnetised protoplanetary disks
 
